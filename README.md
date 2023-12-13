@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudhanshu9199&label=Profile%20views&color=0e75b6&style=flat" alt="sudhanshu9199" /> </p>
 
-- 🌱 I’m currently learning **BCA courses**
+- 🌱 I’m currently pursuing **BCA courses**
 
 - ⚡ Fun fact **I am funny😅**
 
