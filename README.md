@@ -5,8 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudhanshu9199&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
 
-- 🌱 I’m currently pursuing a **BCA** degree (Semester 5)
-- 🔭 I’m exploring **AI** and **Cloud Native Development**
+- 🌱 I’m currently pursuing a **BCA** degree (Semester 6)
+- 🔭 I’m exploring **Web Development** and **AI**
 - ⚡ Fun fact: **I’ve been told I’m pretty funny 😅**
 - 🎯 My goal: Achieve an **9.5 CGPA** and launch my career in IT
 
